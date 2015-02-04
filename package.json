@@ -1,0 +1,23 @@
+{
+  "name": "cwapi",
+  "version": "0.0.1",
+  "description": "",
+  "main": "cwapi.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "chai": "~1.9.1",
+    "cron": "~1.0.4",
+    "node-rest-client": "~0.8.3",
+    "restler": "~3.2.0",
+    "underscore": "~1.6.0",
+    "underscore.string": "~2.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
